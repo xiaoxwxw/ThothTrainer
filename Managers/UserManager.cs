@@ -5,15 +5,13 @@ using MySql.Data.MySqlClient;
 using ThothTrainer.Models;
 using System.Collections.ObjectModel;
 using System.Data;
+using System.Configuration;
 
 namespace ThothTrainer.Managers
 {
     internal class UserManager
     {
-        private const string myConnectionString = "server=127.0.0.1;" +
-            "uid=root;" +
-            "pwd=123456;" +
-            "database=thoth;charset=utf8";
+        private static string myConnectionString = ConfigurationManager.AppSettings["LOCAL_FACES_DATABASE"];
 
         private static MySqlConnection _connection;
 
