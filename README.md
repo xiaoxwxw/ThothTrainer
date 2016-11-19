@@ -3,7 +3,7 @@ WPF Client of Thoth training interface
 
 [![Language: C#](https://img.shields.io/badge/language-C%23-994fd7.svg?style=flat)](https://github.com/CognitiveBuild/ThothTrainer)
 [![.NET Framework 4.5](https://img.shields.io/badge/.net framework-4.5-994fd7.svg?style=flat)](https://github.com/CognitiveBuild/ThothTrainer)
-[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/CognitiveBuild/Chatbot/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/CognitiveBuild/ThothTrainer/master/LICENSE)
 
 ###Image training
 ![UI](https://cloud.githubusercontent.com/assets/1511528/18657050/2afc9ea4-7f29-11e6-9c81-6f5c4d0b2356.png)
