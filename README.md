@@ -29,6 +29,11 @@ DROP SCHEMA IF EXISTS `thoth`;
 CREATE SCHEMA `thoth`;
 
 --
+-- Use created `thoth`
+--
+USE `thoth`;
+
+--
 -- Table structure for table `faces`
 --
 
